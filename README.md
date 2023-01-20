@@ -10,7 +10,7 @@ This repository shows a simple MATLAB Live Script to load and display an image, 
 ## Suggested steps
 1. Clone the repository.
 2. Open MATLAB.
-3. Run the `Zimmerman_Assignment01.mlx` script.
+3. Open and run the `DigImgProc_01.prj` project.
 ## Notes
 
 - The image used is part of MATLAB.
