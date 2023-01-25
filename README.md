@@ -3,6 +3,7 @@
 <hr>
 This repository shows a simple MATLAB Live Script to load and display an image, apply a filter, then display and save the new image.
 
+
 ## Requirements
 - [X]  [MATLAB 2021a](https://www.mathworks.com/products/matlab.html) or later
 - [X]  [Image Processing Toolbox](https://www.mathworks.com/products/image.html)
