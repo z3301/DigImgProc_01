@@ -1,4 +1,4 @@
-[![View Digital Image Processing - Assignment 01 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/123915-digital-image-processing-assignment-01)
+[![View Digital Image Processing - Assignment 1 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/123920-digital-image-processing-assignment-1)
 
 # COT 5930 Digital Image Processing -  Assignment 1
 ## Dan Zimmerman - Z23590872
