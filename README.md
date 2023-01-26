@@ -14,8 +14,7 @@ This repository shows a simple MATLAB Live Script to load and display an image, 
 1. Clone or fork the repository.
 2. Open MATLAB.
 3. Open the `Zimmerman_Assignment01v2_0_0.mlx` Live Script.
-4. Select all control parameters.
-5. Click "Run" at the bottom.
+4. Follow the instructions in the Live Script.
 
 ## Notes
 
